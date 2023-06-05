@@ -5,8 +5,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leyng7&layout=compact&theme=dark&locale=kr)
 -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=leyng7&theme=dark&hide=contribs,prs&show_icons=true&locale=kr" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leyng7&layout=compact&theme=dark&locale=kr" />
+<img style="float: left;" src="https://github-readme-stats.vercel.app/api?username=leyng7&theme=dark&hide=contribs,prs&show_icons=true&locale=kr" />
+<img style="float: left;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leyng7&layout=compact&theme=dark&locale=kr" />
 
 
 <!--
