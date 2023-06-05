@@ -1,12 +1,14 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:69EACB,50:EACCF8,100:6654F1&height=300&fontAlignY=40&section=header&text=I'am%20데브✋&fontSize=80&fontColor=FFFFFF)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:69EACB,50:EACCF8,100:6654F1&height=300&fontAlignY=40&section=header&text=I'am%20데브✋&fontSize=80&fontColor=FFFFFF" />
 
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leyng7&theme=dark&hide=contribs,prs&show_icons=true&locale=kr)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leyng7&layout=compact&theme=dark&locale=kr)
 -->
 
-<img style="float: left;" src="https://github-readme-stats.vercel.app/api?username=leyng7&theme=dark&hide=contribs,prs&show_icons=true&locale=kr" />
-<img style="float: left;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leyng7&layout=compact&theme=dark&locale=kr" />
+<div>
+  <img style="height: 180px;" src="https://github-readme-stats.vercel.app/api?username=leyng7&theme=dark&hide=contribs,prs&show_icons=true&locale=kr" />
+  <img style="height: 180px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leyng7&layout=compact&theme=dark&locale=kr" />
+</div>
 
 
 <!--
