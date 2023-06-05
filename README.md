@@ -6,8 +6,8 @@
 -->
 
 <div>
-  <img style="height: 180px;" src="https://github-readme-stats.vercel.app/api?username=leyng7&theme=dark&hide=contribs,prs&show_icons=true&locale=kr" />
-  <img style="height: 180px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leyng7&layout=compact&theme=dark&locale=kr" />
+  <img style="height: 140px;" src="https://github-readme-stats.vercel.app/api?username=leyng7&theme=dark&hide=contribs,prs&show_icons=true&locale=kr" />
+  <img style="height: 140px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leyng7&layout=compact&theme=dark&locale=kr" />
 </div>
 
 
