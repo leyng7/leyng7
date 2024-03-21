@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=slice&color=0:69EACB,50:EACCF8,100:6654F1&height=100&fontAlignY=40&section=header&text=&fontSize=80&fontColor=FFFFFF" />
 
 <p align="center">
-  안녕하세요😄 6년차 웹에이전시 백엔드 개발자 <b>천운령</b>입니다. <br/>
+  안녕하세요😄 6년차 백엔드 개발자 <b>천운령</b>입니다. <br/>
 </p>
 
 <h3 align="center"><b>Contact</b></h3>
@@ -13,6 +13,14 @@
   <a href="https://solved.ac/leyng7" target="_blank">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=leyng7" alt="Solved.ac 프로필" />
   </a>
+</p>
+
+<h3 align="center"><b>Skills</b></h3>
+<p align="center">
+   <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white"> &nbsp 
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"> &nbsp 
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"> &nbsp 
+  <br/>
 </p>
 
 <!--
