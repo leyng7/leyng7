@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://solved.ac/leyng7"
+  <a href="https://solved.ac/leyng7" target="_blank">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=leyng7" alt="Solved.ac 프로필" />
   </a>
 </p>
