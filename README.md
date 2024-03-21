@@ -1,15 +1,26 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:69EACB,50:EACCF8,100:6654F1&height=300&fontAlignY=40&section=header&text=I'am%20데브✋&fontSize=80&fontColor=FFFFFF" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:69EACB,50:EACCF8,100:6654F1&height=100&fontAlignY=40&section=header&text=&fontSize=80&fontColor=FFFFFF" />
+
+<p align="center">
+  안녕하세요😄 6년차 웹에이전시 백엔드 개발자 <b>천운령</b>입니다. <br/>
+</p>
+
+<h3 align="center"><b>Contact</b></h3>
+<p align="center">
+  <a href="mailto:leyng7@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> &nbsp
+</p>
+
+<p align="center">
+  <a href="https://solved.ac/leyng7"
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=leyng7" alt="Solved.ac 프로필" />
+  </a>
+</p>
 
 <!--
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leyng7&theme=dark&hide=contribs,prs&show_icons=true&locale=kr)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leyng7&layout=compact&theme=dark&locale=kr)
--->
-
 <div>
   <img style="height: 140px;" src="https://github-readme-stats.vercel.app/api?username=leyng7&theme=dark&hide=contribs,prs&show_icons=true&locale=kr" />
   <img style="height: 140px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leyng7&layout=compact&theme=dark&locale=kr" />
 </div>
-
+-->
 
 <!--
 **leyng7/leyng7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
