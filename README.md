@@ -9,18 +9,18 @@
   <a href="mailto:leyng7@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> &nbsp
 </p>
 
-<p align="center">
-  <a href="https://solved.ac/leyng7" target="_blank">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=leyng7" alt="Solved.ac 프로필" />
-  </a>
-</p>
-
 <h3 align="center"><b>Skills</b></h3>
 <p align="center">
    <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white"> &nbsp 
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"> &nbsp 
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"> &nbsp 
   <br/>
+</p>
+
+<p align="center">
+  <a href="https://solved.ac/leyng7" target="_blank">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=leyng7" alt="Solved.ac 프로필" />
+  </a>
 </p>
 
 <!--
