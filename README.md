@@ -7,6 +7,7 @@
 <h3 align="center"><b>Contact</b></h3>
 <p align="center">
   <a href="mailto:leyng7@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> &nbsp
+  <a href="https://blushing-feet-8ef.notion.site/8b05b7a277d644e1b4252da33693aec2"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a> &nbsp
 </p>
 
 <h3 align="center"><b>Skills</b></h3>
