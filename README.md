@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=slice&color=0:69EACB,50:EACCF8,100:6654F1&height=100&fontAlignY=40&section=header&text=&fontSize=80&fontColor=FFFFFF" />
 
 <p align="center">
-  안녕하세요😄 6년차 백엔드 개발자 <b>천운령</b>입니다. <br/>
+  안녕하세요😄 7년차 백엔드 개발자 <b>천운령</b>입니다. <br/>
 </p>
 
 <h3 align="center"><b>Contact</b></h3>
