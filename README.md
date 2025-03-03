@@ -7,8 +7,10 @@
 <h3 align="center"><b>Contact</b></h3>
 <p align="center">
   <a href="mailto:leyng7@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> &nbsp
+  <!--
   <a href="https://publish.obsidian.md/leyng7"><img src="https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=Obsidian&logoColor=white"/></a> &nbsp
   <a href="https://unryeong.tistory.com"><img src="https://img.shields.io/badge/Tistory-FF7900?style=flat-square&logo=Tistory&logoColor=white"/></a> &nbsp
+  -->
 </p>
 
 <h3 align="center"><b>Skills</b></h3>
